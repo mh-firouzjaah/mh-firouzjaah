@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes.svg" alt="Kubernetes" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Kubernetes/Kubernetes.svg" alt="Kubernetes" width="25" height="25" />
 </p>
