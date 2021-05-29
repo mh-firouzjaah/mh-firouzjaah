@@ -32,11 +32,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<style type="text/css" rel="stylesheet">
-img[alt=GitHub-Analytics]{
-  height: 180em;
-}
-</style>
+[](./style.css)
 
 ![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia)
