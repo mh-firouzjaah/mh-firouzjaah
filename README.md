@@ -33,30 +33,34 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub-Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia)
 
-![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia)
+![GitHub-Analytics](https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+
+---
 
 **Languages and Tools used:**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![linux](https://img.shields.io/badge/-linux-gainsboro?&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-gainsboro?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-gainsboro?style=flat&logo=django&logoColor=092E20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gainsboro?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-gainsboro?&logo=jQuery&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-gainsboro?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-gainsboro?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-gainsboro?style=flat&logo=bootstrap&logoColor=563D7C)
+![Git](https://img.shields.io/badge/-Git-gainsboro?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-gainsboro?style=flat&logo=github&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-gainsboro?&logo=Redis)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-gainsboro?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+---
 
 **Languages and Tools to Learn:**
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="nginx" width="25" height="25" />
-<img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes" width="25" height="25" />
-</p>
+![Vue](https://img.shields.io/badge/-Vue-gainsboro?&logo=Vue-dot-js)
+![NodeJs](https://img.shields.io/badge/-NodeJs-gainsboro?&logo=Node-dot-js)
+![mongodb](https://img.shields.io/badge/-mongodb-gainsboro?&logo=mongodb)
+![NGINX](https://img.shields.io/badge/-NGINX-gainsboro?&logo=nginx&logoColor=darkgreen)
+![Docker](https://img.shields.io/badge/-Docker-gainsboro?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-gainsboro?&logo=Kubernetes)
