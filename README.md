@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<style>
+<style type="text/css" rel="stylesheet">
 img[alt=GitHub-Analytics]{
   height: 180em;
 }
