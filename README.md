@@ -11,7 +11,6 @@ I'm a Python and Django developer based in Tehran, Iran. when I have time, I wor
 I don't write often, but you can follow my channel at [Telegram](https://t.me/programming_tricks).
 
 📫 How to reach me:
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahdi-firouzjaah)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10651401/mahdi-firouzjah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mh.firouzjah@gmail.com)
@@ -33,8 +32,14 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub Analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![GitHub Analytics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia)
+<style>
+img[alt=GitHub-Analytics]{
+  height: 180em;
+}
+</style>
+
+![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia)
 
 **Languages and Tools used:**
 
