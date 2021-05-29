@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # Hi there, I'm Mahdi Firouzjaah
 
 > _Creative Developer | Competitive Programmer | Talented Learner_
@@ -31,8 +33,6 @@ Here are some ideas to get you started:
 -->
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-[](./style.css)
 
 ![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![GitHub-Analytics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia)
