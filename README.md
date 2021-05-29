@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub Analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true){:height="180em"}
-![GitHub Analytics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia){:height="180em"}
+![GitHub Analytics](https://github-readme-stats-eight-theta.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub Analytics](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=algolia)
 
 **Languages and Tools used:**
 
@@ -47,10 +47,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)
 
 **Languages and Tools to Learn:**
 
