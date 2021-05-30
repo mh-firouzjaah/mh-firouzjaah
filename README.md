@@ -32,7 +32,7 @@
 
 ### Resume
 
-- Persian: [mh-firouzjaah-resume-09/03/1400](./assets/mh-firouzjaah-resume-09-03-1400.pdf)
+- Persian: [mh-firouzjaah-resume-09-03-1400](./assets/mh-firouzjaah-resume-09-03-1400.pdf)
 
 ## 📫 How to reach me?
 
