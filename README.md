@@ -9,20 +9,20 @@
 - Found and reported solution for inaccuracy and errors in django translation system.
 - Visual Studio Code is my favorite code editor and I spent sometime to make it more comfortable for coding in python/django yet I've patched a color theme for vscode.
 
-**when I have time:**
+### when I have time
 
 - I'll work on a personal project called `Flight Plan Analyzer` related to
   my profession to be an Air Traffic Controller.
 - Read Google Discover on my android device for news about IT and Tech.
 - Help newbie programmers on stackoverflow, telegram groups or by providing videos on my youtube channel.
 
-**I’m currently learning:**
+### I’m currently learning
 
 [![golang](https://img.shields.io/badge/-Go-333?style=flat&logo=go)](#I’m-currently-learning)
 [![Svelte](https://img.shields.io/badge/-SvelteJs-333?style=flat&logo=Svelte)](#I’m-currently-learning)
 [![tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)](#I’m-currently-learning)
 
-**I don't write often, but you can follow me at:**
+### I don't write often, but you may follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=telegram)](https://t.me/programming_tricks)
 [![Gist](https://img.shields.io/badge/-Gist-333?style=flat&logo=github&logoColor=white)](https://gist.github.com/mh-firouzjaah)
@@ -46,7 +46,7 @@
 
 ---
 
-**Languages and Tools used:**
+### Languages and Tools used
 
 [![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows&logoColor=0078d7)](#Languages-and-Tools-used)
 [![linux](https://img.shields.io/badge/-linux-333?style=flat&logo=linux&logoColor=ghostwhite)](#Languages-and-Tools-used)
@@ -70,9 +70,7 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)](#Languages-and-Tools-used)
 [![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=Redis)](#Languages-and-Tools-used)
 
----
-
-**Languages and Tools to Learn:**
+### Languages and Tools to Learn
 
 [![NGINX](https://img.shields.io/badge/-NGINX-333?style=flat&logo=nginx&logoColor=green)](#Languages-and-Tools-to-Learn)
 [![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=Docker)](#Languages-and-Tools-to-Learn)
