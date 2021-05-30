@@ -28,8 +28,6 @@
 [![Gist](https://img.shields.io/badge/-Gist-333?style=flat&logo=github&logoColor=white)](https://gist.github.com/mh-firouzjaah)
 [![youtube](https://img.shields.io/badge/-YouTube-D14836?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCj1NjFqz4gEBjL8DWkUJBQw)
 
----
-
 ### Resume
 
 - Persian: [mh-firouzjaah-resume-09-03-1400](./assets/mh-firouzjaah-resume-09-03-1400.pdf)
