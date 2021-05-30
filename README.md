@@ -10,11 +10,11 @@ my profession to be an Air Traffic Controller.
 
 **🌱 I’m currently learning:**
 
-![golang](https://img.shields.io/badge/-golang-1C1C1B?style=flat&logo=go)
-![Svelte](https://img.shields.io/badge/-Svelte-1C1C1B?style=flat&logo=Svelte)
-![tailwind](https://img.shields.io/badge/-tailwind-1C1C1B?style=flat&logo=tailwind-css)
+![golang](https://img.shields.io/badge/-golang-E7EBE0?style=flat&logo=go)
+![Svelte](https://img.shields.io/badge/-Svelte-E7EBE0?style=flat&logo=Svelte)
+![tailwind](https://img.shields.io/badge/-tailwind-E7EBE0?style=flat&logo=tailwind-css)
 
-I don't write often, but you can follow my channel at [![telegram](https://img.shields.io/badge/-telegram-1C1C1B?style=flat&logo=telegram)](https://t.me/programming_tricks).
+I don't write often, but you can follow my channel at [![telegram](https://img.shields.io/badge/-telegram-E7EBE0?style=flat&logo=telegram)](https://t.me/programming_tricks).
 
 ## 📫 How to reach me
 
@@ -48,27 +48,27 @@ Here are some ideas to get you started:
 
 **Languages and Tools used:**
 
-![windows](https://img.shields.io/badge/-windows-1C1C1B?style=flat&logo=windows&logoColor=blue)
-![linux](https://img.shields.io/badge/-linux-1C1C1B?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-1C1C1B?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-1C1C1B?style=flat&logo=django&logoColor=092E20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1B?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-1C1C1B?style=flat&logo=jQuery&logoColor=1572B6)
-![HTML](https://img.shields.io/badge/-HTML-1C1C1B?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-1C1C1B?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1C1C1B?style=flat&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-1C1C1B?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-1C1C1B?style=flat&logo=github&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-1C1C1B?style=flat&logo=Redis)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-1C1C1B?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![windows](https://img.shields.io/badge/-windows-E7EBE0?style=flat&logo=windows&logoColor=blue)
+![linux](https://img.shields.io/badge/-linux-E7EBE0?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-E7EBE0?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-E7EBE0?style=flat&logo=django&logoColor=092E20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-E7EBE0?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-E7EBE0?style=flat&logo=jQuery&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-E7EBE0?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-E7EBE0?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-E7EBE0?style=flat&logo=bootstrap&logoColor=563D7C)
+![Git](https://img.shields.io/badge/-Git-E7EBE0?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-E7EBE0?style=flat&logo=github&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-E7EBE0?style=flat&logo=Redis)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-E7EBE0?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
 **Languages and Tools to Learn:**
 
-![Vue](https://img.shields.io/badge/-Vue-1C1C1B?style=flat&logo=Vue-dot-js)
-![NodeJs](https://img.shields.io/badge/-NodeJs-1C1C1B?style=flat&logo=Node-dot-js)
-![mongodb](https://img.shields.io/badge/-mongodb-1C1C1B?style=flat&logo=mongodb)
-![NGINX](https://img.shields.io/badge/-NGINX-1C1C1B?style=flat&logo=nginx&logoColor=darkgreen)
-![Docker](https://img.shields.io/badge/-Docker-1C1C1B?style=flat&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-1C1C1B?style=flat&logo=Kubernetes)
+![Vue](https://img.shields.io/badge/-Vue-E7EBE0?style=flat&logo=Vue-dot-js)
+![NodeJs](https://img.shields.io/badge/-NodeJs-E7EBE0?style=flat&logo=Node-dot-js)
+![mongodb](https://img.shields.io/badge/-mongodb-E7EBE0?style=flat&logo=mongodb)
+![NGINX](https://img.shields.io/badge/-NGINX-E7EBE0?style=flat&logo=nginx&logoColor=darkgreen)
+![Docker](https://img.shields.io/badge/-Docker-E7EBE0?style=flat&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-E7EBE0?style=flat&logo=Kubernetes)
