@@ -38,7 +38,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![GitHub-Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=darcula)](.)
+[![GitHub-Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=darcula)](#GitHub-Analytics)
 
 ![GitHub-Analytics](https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)
 
