@@ -18,9 +18,9 @@
 
 **I’m currently learning:**
 
-![golang](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
-![Svelte](https://img.shields.io/badge/-SvelteJs-333?style=flat&logo=Svelte)
-![tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)
+[![golang](https://img.shields.io/badge/-Go-333?style=flat&logo=go)](#I’m-currently-learning)
+[![Svelte](https://img.shields.io/badge/-SvelteJs-333?style=flat&logo=Svelte)](#I’m-currently-learning)
+[![tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)](#I’m-currently-learning)
 
 **I don't write often, but you can follow me at:**
 
@@ -46,36 +46,36 @@
 
 **Languages and Tools used:**
 
-![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows&logoColor=0078d7)
-![linux](https://img.shields.io/badge/-linux-333?style=flat&logo=linux&logoColor=ghostwhite)
+[![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows&logoColor=0078d7)](#Languages-and-Tools-used)
+[![linux](https://img.shields.io/badge/-linux-333?style=flat&logo=linux&logoColor=ghostwhite)](#Languages-and-Tools-used)
 
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=0078d7)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=0078d7)](#Languages-and-Tools-used)
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=4584b6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=f7df1e)
+[![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=4584b6)](#Languages-and-Tools-used)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=f7df1e)](#Languages-and-Tools-used)
 
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=0078d7)
-![sass](https://img.shields.io/badge/-sass-333?style=flat&logo=sass)
+[![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=HTML5)](#Languages-and-Tools-used)
+[![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=0078d7)](#Languages-and-Tools-used)
+[![sass](https://img.shields.io/badge/-sass-333?style=flat&logo=sass)](#Languages-and-Tools-used)
 
-![Django](https://img.shields.io/badge/-Django-092e20?style=flat&logo=django)
-![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jQuery&logoColor=7acef4)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+[![Django](https://img.shields.io/badge/-Django-092e20?style=flat&logo=django)](#Languages-and-Tools-used)
+[![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jQuery&logoColor=7acef4)](#Languages-and-Tools-used)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)](#Languages-and-Tools-used)
 
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)](#Languages-and-Tools-used)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](#Languages-and-Tools-used)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=Redis)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)](#Languages-and-Tools-used)
+[![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=Redis)](#Languages-and-Tools-used)
 
 ---
 
 **Languages and Tools to Learn:**
 
-![NGINX](https://img.shields.io/badge/-NGINX-333?style=flat&logo=nginx&logoColor=green)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=Kubernetes)
+[![NGINX](https://img.shields.io/badge/-NGINX-333?style=flat&logo=nginx&logoColor=green)](#Languages-and-Tools-to-Learn)
+[![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=Docker)](#Languages-and-Tools-to-Learn)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=Kubernetes)](#Languages-and-Tools-to-Learn)
 
-![VueJs](https://img.shields.io/badge/-VueJs-333?style=flat&logo=Vue-dot-js)
-![NodeJs](https://img.shields.io/badge/-NodeJs-333?style=flat&logo=Node-dot-js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+[![VueJs](https://img.shields.io/badge/-VueJs-333?style=flat&logo=Vue-dot-js)](#Languages-and-Tools-to-Learn)
+[![NodeJs](https://img.shields.io/badge/-NodeJs-333?style=flat&logo=Node-dot-js)](#Languages-and-Tools-to-Learn)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)](#Languages-and-Tools-to-Learn)
