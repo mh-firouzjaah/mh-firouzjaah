@@ -8,6 +8,7 @@
 - I love coding in python and automate the boring stuff with python and django.
 - Found and reported solution for inaccuracy and errors in django translation system.
 - Visual Studio Code is my favorite code editor and I spent sometime to make it more comfortable for coding in python/django yet I've patched a color theme for vscode.
+- **Open to work and migrate**
 
 ### when I have time
 
@@ -38,11 +39,14 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10651401/mahdi-firouzjah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mh.firouzjah@gmail.com)
 
-### ⚙️ &nbsp;GitHub Analytics
+---
 
-[![GitHub-Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=darcula)](#GitHub-Analytics)
+### ⚙️ GitHub Analytics
 
-[![GitHub-Analytics](https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)](#GitHub-Analytics)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=darcula" height="180em">
+</div>
 
 ---
 
