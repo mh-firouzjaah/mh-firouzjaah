@@ -18,9 +18,9 @@
 
 **I’m currently learning:**
 
-![golang](https://img.shields.io/badge/-golang-2A2B2D?style=flat&logo=go)
-![Svelte](https://img.shields.io/badge/-Svelte-2A2B2D?style=flat&logo=Svelte)
-![tailwind](https://img.shields.io/badge/-tailwind-2A2B2D?style=flat&logo=tailwind-css)
+![golang](https://img.shields.io/badge/-Go-2A2B2D?style=flat&logo=go)
+![Svelte](https://img.shields.io/badge/-SvelteJs-2A2B2D?style=flat&logo=Svelte)
+![tailwind](https://img.shields.io/badge/-Tailwind%20CSS-2A2B2D?style=flat&logo=tailwind-css)
 
 **I don't write often, but you can follow me at:**
 
@@ -46,8 +46,8 @@
 
 **Languages and Tools used:**
 
-![windows](https://img.shields.io/badge/-windows-2A2B2D?style=flat&logo=windows&logoColor=blue)
-![linux](https://img.shields.io/badge/-linux-2A2B2D?style=flat&logo=linux&logoColor=lightgray)
+![Windows](https://img.shields.io/badge/-Windows-2A2B2D?style=flat&logo=windows&logoColor=blue)
+![linux](https://img.shields.io/badge/-linux-2A2B2D?style=flat&logo=linux&logoColor=black)
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-2A2B2D?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
@@ -65,7 +65,7 @@
 ![Git](https://img.shields.io/badge/-Git-2A2B2D?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-2A2B2D?style=flat&logo=github&logoColor=white)
 
-![postgresql](https://img.shields.io/badge/-postgresql-2A2B2D?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2A2B2D?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-2A2B2D?style=flat&logo=Redis)
 
 ---
@@ -76,6 +76,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2A2B2D?style=flat&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2A2B2D?style=flat&logo=Kubernetes)
 
-![Vue](https://img.shields.io/badge/-Vue-2A2B2D?style=flat&logo=Vue-dot-js)
+![VueJs](https://img.shields.io/badge/-VueJs-2A2B2D?style=flat&logo=Vue-dot-js)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-2A2B2D?style=flat&logo=Node-dot-js)
-![mongodb](https://img.shields.io/badge/-mongodb-2A2B2D?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2A2B2D?style=flat&logo=mongodb)
