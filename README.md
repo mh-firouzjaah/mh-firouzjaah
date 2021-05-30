@@ -30,6 +30,10 @@
 
 ---
 
+### Resume
+
+- Persian: [mh-firouzjaah-resume-09/03/1400](./assets/mh-firouzjaah-resume-09/03/1400.pdf)
+
 ## 📫 How to reach me?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahdi-firouzjaah)
