@@ -8,12 +8,17 @@ I'm a Python and Django developer based in Tehran, Iran. when I have time,
 I work on a personal project called `Flight Plan Analyzer` related to
 my profession to be an Air Traffic Controller.
 
-🌱 I’m currently learning
-![golang](https://img.shields.io/badge/-golang-black?&logo=go)
-![Svelte](https://img.shields.io/badge/-Svelte-black?&logo=Svelte)
-![tailwind](https://img.shields.io/badge/-tailwind-black?&logo=tailwind-css).
+**🌱 I’m currently learning:**
 
-I don't write often, but you can follow my channel at [![telegram](https://img.shields.io/badge/-telegram-black?&logo=telegram)](https://t.me/programming_tricks).
+<p style="text-align: center;">
+
+![golang](https://img.shields.io/badge/-golang-gainsboro?&logo=go)
+![Svelte](https://img.shields.io/badge/-Svelte-gainsboro?&logo=Svelte)
+![tailwind](https://img.shields.io/badge/-tailwind-gainsboro?&logo=tailwind-css)
+
+</p>
+
+I don't write often, but you can follow my channel at [![telegram](https://img.shields.io/badge/-telegram-gainsboro?&logo=telegram)](https://t.me/programming_tricks).
 
 ## 📫 How to reach me
 
@@ -47,27 +52,27 @@ Here are some ideas to get you started:
 
 **Languages and Tools used:**
 
-![windows](https://img.shields.io/badge/-windows-black?&logo=windows&logoColor=blue)
-![linux](https://img.shields.io/badge/-linux-black?&logo=linux&logoColor=grey)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=092E20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-black?&logo=jQuery&logoColor=1572B6)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=grey)
-![Redis](https://img.shields.io/badge/-Redis-black?&logo=Redis)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![windows](https://img.shields.io/badge/-windows-gainsboro?&logo=windows&logoColor=blue)
+![linux](https://img.shields.io/badge/-linux-gainsboro?&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-gainsboro?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-gainsboro?style=flat&logo=django&logoColor=092E20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gainsboro?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-gainsboro?&logo=jQuery&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-gainsboro?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-gainsboro?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-gainsboro?style=flat&logo=bootstrap&logoColor=563D7C)
+![Git](https://img.shields.io/badge/-Git-gainsboro?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-gainsboro?style=flat&logo=github&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-gainsboro?&logo=Redis)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-gainsboro?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
 **Languages and Tools to Learn:**
 
-![Vue](https://img.shields.io/badge/-Vue-black?&logo=Vue-dot-js)
-![NodeJs](https://img.shields.io/badge/-NodeJs-black?&logo=Node-dot-js)
-![mongodb](https://img.shields.io/badge/-mongodb-black?&logo=mongodb)
-![NGINX](https://img.shields.io/badge/-NGINX-black?&logo=nginx&logoColor=darkgreen)
-![Docker](https://img.shields.io/badge/-Docker-black?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?&logo=Kubernetes)
+![Vue](https://img.shields.io/badge/-Vue-gainsboro?&logo=Vue-dot-js)
+![NodeJs](https://img.shields.io/badge/-NodeJs-gainsboro?&logo=Node-dot-js)
+![mongodb](https://img.shields.io/badge/-mongodb-gainsboro?&logo=mongodb)
+![NGINX](https://img.shields.io/badge/-NGINX-gainsboro?&logo=nginx&logoColor=darkgreen)
+![Docker](https://img.shields.io/badge/-Docker-gainsboro?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-gainsboro?&logo=Kubernetes)
