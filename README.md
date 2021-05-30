@@ -47,7 +47,7 @@
 **Languages and Tools used:**
 
 ![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows&logoColor=0078d7)
-![linux](https://img.shields.io/badge/-linux-ghostwhite?style=flat&logo=linux&logoColor=black)
+![linux](https://img.shields.io/badge/-linux-333?style=flat&logo=linux&logoColor=ghostwhite)
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=0078d7)
 
@@ -59,8 +59,8 @@
 ![sass](https://img.shields.io/badge/-sass-333?style=flat&logo=sass)
 
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat&logo=django)
-![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=flat&logo=jQuery&logoColor=7acef4)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-ghostwhite?style=flat&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-333?style=flat&logo=jQuery&logoColor=7acef4)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
 
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
