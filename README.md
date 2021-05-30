@@ -13,20 +13,20 @@
 
 - I'll work on a personal project called `Flight Plan Analyzer` related to
   my profession to be an Air Traffic Controller.
-- Read `google discover` for news about IT and Tech.
-- help newbie programmers on stackoverflow, telegram groups or by providing videos on my youtube channel.
+- Read Google Discover on my android device for news about IT and Tech.
+- Help newbie programmers on stackoverflow, telegram groups or by providing videos on my youtube channel.
 
 **I’m currently learning:**
 
-![golang](https://img.shields.io/badge/-Go-2A2B2D?style=flat&logo=go)
-![Svelte](https://img.shields.io/badge/-SvelteJs-2A2B2D?style=flat&logo=Svelte)
-![tailwind](https://img.shields.io/badge/-Tailwind%20CSS-2A2B2D?style=flat&logo=tailwind-css)
+![golang](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+![Svelte](https://img.shields.io/badge/-SvelteJs-333?style=flat&logo=Svelte)
+![tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)
 
 **I don't write often, but you can follow me at:**
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2A2B2D?style=flat&logo=telegram)](https://t.me/programming_tricks)
-[![Gist](https://img.shields.io/badge/-Gist-2A2B2D?style=flat&logo=github&logoColor=white)](https://gist.github.com/mh-firouzjaah)
-[![youtube](https://img.shields.io/badge/-YouTube-2A2B2D?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCj1NjFqz4gEBjL8DWkUJBQw)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=telegram)](https://t.me/programming_tricks)
+[![Gist](https://img.shields.io/badge/-Gist-333?style=flat&logo=github&logoColor=white)](https://gist.github.com/mh-firouzjaah)
+[![youtube](https://img.shields.io/badge/-YouTube-D14836?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCj1NjFqz4gEBjL8DWkUJBQw)
 
 ---
 
@@ -46,36 +46,36 @@
 
 **Languages and Tools used:**
 
-![Windows](https://img.shields.io/badge/-Windows-2A2B2D?style=flat&logo=windows&logoColor=blue)
-![linux](https://img.shields.io/badge/-linux-2A2B2D?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows&logoColor=0078d7)
+![linux](https://img.shields.io/badge/-linux-ghostwhite?style=flat&logo=linux&logoColor=black)
 
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-2A2B2D?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=0078d7)
 
-![Python](https://img.shields.io/badge/-Python-2A2B2D?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2A2B2D?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=4584b6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=f7df1e)
 
-![HTML](https://img.shields.io/badge/-HTML-2A2B2D?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-2A2B2D?style=flat&logo=CSS3&logoColor=1572B6)
-![sass](https://img.shields.io/badge/-sass-2A2B2D?style=flat&logo=sass)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=0078d7)
+![sass](https://img.shields.io/badge/-sass-333?style=flat&logo=sass)
 
-![Django](https://img.shields.io/badge/-Django-2A2B2D?style=flat&logo=django)
-![jQuery](https://img.shields.io/badge/-jQuery-2A2B2D?style=flat&logo=jQuery&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2A2B2D?style=flat&logo=bootstrap)
+![Django](https://img.shields.io/badge/-Django-092e20?style=flat&logo=django)
+![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=flat&logo=jQuery&logoColor=7acef4)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-ghostwhite?style=flat&logo=bootstrap)
 
-![Git](https://img.shields.io/badge/-Git-2A2B2D?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-2A2B2D?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2A2B2D?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-2A2B2D?style=flat&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=Redis)
 
 ---
 
 **Languages and Tools to Learn:**
 
-![NGINX](https://img.shields.io/badge/-NGINX-2A2B2D?style=flat&logo=nginx&logoColor=green)
-![Docker](https://img.shields.io/badge/-Docker-2A2B2D?style=flat&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-2A2B2D?style=flat&logo=Kubernetes)
+![NGINX](https://img.shields.io/badge/-NGINX-333?style=flat&logo=nginx&logoColor=green)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=Kubernetes)
 
-![VueJs](https://img.shields.io/badge/-VueJs-2A2B2D?style=flat&logo=Vue-dot-js)
-![NodeJs](https://img.shields.io/badge/-NodeJs-2A2B2D?style=flat&logo=Node-dot-js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-2A2B2D?style=flat&logo=mongodb)
+![VueJs](https://img.shields.io/badge/-VueJs-333?style=flat&logo=Vue-dot-js)
+![NodeJs](https://img.shields.io/badge/-NodeJs-333?style=flat&logo=Node-dot-js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
