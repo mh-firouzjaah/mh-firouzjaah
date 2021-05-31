@@ -6,9 +6,7 @@
 
 - I'm a fullstack mid-level Python and Django developer based in Tehran, Iran.
 - I love coding in python and automate the boring stuff with python and django.
-- Found and reported solution for inaccuracy and errors in django translation system.
 - Visual Studio Code is my favorite code editor and I spent sometime to make it more comfortable for coding in python/django yet I've patched a color theme for vscode.
-- **Open to work and migrate**
 
 ### when I have time
 
@@ -31,6 +29,7 @@
 
 ### Resume
 
+- **Open to Work**
 - Persian: [mh-firouzjaah-resume-09-03-1400](./assets/mh-firouzjaah-resume-09-03-1400.pdf)
 
 ### 📫 How to reach me?
