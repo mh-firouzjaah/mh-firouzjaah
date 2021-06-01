@@ -6,7 +6,7 @@
 
 - I'm a fullstack mid-level Python and Django developer based in Tehran, Iran.
 - I love coding in python and automate the boring stuff with python and django.
-- Visual Studio Code is my favorite code editor and I spent sometime to make it more comfortable for coding in python/django yet I've patched a color theme for vscode.
+- Visual Studio Code is my favorite code editor and I spent sometimes to make it more comfortable for coding in python/django, yet I've patched a color theme for vscode.
 
 ### when I have time
 
