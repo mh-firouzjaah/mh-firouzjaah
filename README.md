@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ### I’m currently learning
 
 [![golang](https://img.shields.io/badge/-Go-333?style=flat&logo=go)](#I’m-currently-learning)
