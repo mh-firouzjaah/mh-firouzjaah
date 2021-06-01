@@ -1,6 +1,8 @@
-# Hi there, I'm Mahdi Firouzjaah [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah)
+# I'm Mahdi Firouzjaah [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah)
 
 > _Creative Developer | Competitive Programmer | Talented Learner_
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mahdi%20Firouzjaah&animation=fadeIn&fontSize=90&fontAlignY=45&desc=greetings!&descSize=30&descAlignY=10)
 
 <div>
 <img src="./assets/img/2.png?raw=true" align="right" style="opacity:0.2 !important;">
