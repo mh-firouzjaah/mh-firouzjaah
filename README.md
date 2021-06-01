@@ -2,6 +2,7 @@
 
 > _Creative Developer | Competitive Programmer | Talented Learner_
 
+<div>
 <img src="./assets/img/2.png?raw=true" align="right" style="opacity:0.2 !important;">
 
 ## About Me
@@ -16,6 +17,10 @@
 - Read Google Discover on my android device for `news about IT and Tech`.
 - Help newbie programmers on `stackoverflow`, `telegram groups` or by providing videos on `my youtube channel`.
 - Work on my `vscode color theme` and Search for new extensions and configs
+
+</div>
+
+---
 
 ### I’m currently learning
 
