@@ -1,6 +1,6 @@
 # Welcome To My GitHub Profile [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mahdi%20Firouzjaah&animation=fadeIn&fontSize=90&fontAlignY=40&desc=Creative%20Developer%20|%20Competitive%20Programmer%20|%20Talented%20Learner&descSize=25&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mahdi%20Firouzjaah&animation=fadeIn&fontSize=90&fontAlignY=40&desc=Creative%20Developer%20|%20Competitive%20Programmer%20|%20Talented%20Learner&descSize=20&descAlignY=70)
 
 <div>
 <img src="./assets/img/2-mid.png?raw=true" align="right">
