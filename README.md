@@ -1,15 +1,8 @@
-s# Hi there, I'm Mahdi Firouzjaah [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah)
+# Hi there, I'm Mahdi Firouzjaah [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah)
 
 > _Creative Developer | Competitive Programmer | Talented Learner_
 
-<style>
-img[alt$=">"] {
-  float: right;
-  opacity: .2;
-}
-</style>
-
-![Me >](./assets/img/2.png)
+<img src="./assets/img/2.png" style="opacity: 0.2;float:right;">
 
 ## About Me
 
