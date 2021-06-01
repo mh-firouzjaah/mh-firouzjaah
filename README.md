@@ -2,7 +2,7 @@
 
 > _Creative Developer | Competitive Programmer | Talented Learner_
 
-<img src="./assets/img/2.png?raw=true" align="right">
+<img src="./assets/img/2.png?raw=true" align="right" style="opacity:0.2 !important;">
 
 ## About Me
 
