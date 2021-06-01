@@ -3,7 +3,7 @@
 > _Creative Developer | Competitive Programmer | Talented Learner_
 
 <a href="#" style="float:right;">
-<img src="./assets/img/2.png" style="opacity: 0.2;float:right;">
+<img src="./assets/img/2.png?raw=true" style="opacity: 0.2;float:right;">
 </a>
 
 ## About Me
