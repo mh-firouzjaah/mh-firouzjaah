@@ -1,3 +1,5 @@
+<img src="./assets/img/2.png" style="opacity: 0.2;float:right;">
+
 # Hi there, I'm Mahdi Firouzjaah [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah)
 
 > _Creative Developer | Competitive Programmer | Talented Learner_
@@ -6,14 +8,14 @@
 
 - I'm a fullstack mid-level Python and Django developer based in Tehran, Iran.
 - I love coding in python and automate the boring stuff with python and django.
-- Visual Studio Code is my favorite code editor and I spent sometime to make it more comfortable for coding in python/django yet I've patched a color theme for vscode.
 
 ### when I have time
 
 - I'll work on a personal project called `Flight Plan Analyzer` related to
   my profession to be an Air Traffic Controller.
-- Read Google Discover on my android device for news about IT and Tech.
-- Help newbie programmers on stackoverflow, telegram groups or by providing videos on my youtube channel.
+- Read Google Discover on my android device for `news about IT and Tech`.
+- Help newbie programmers on `stackoverflow`, `telegram groups` or by providing videos on `my youtube channel`.
+- Work on my `vscode color theme` and Search for new extensions and configs
 
 ### I’m currently learning
 
@@ -29,8 +31,9 @@
 
 ### Resume
 
-- **Open to Work**
-- Persian: [mh-firouzjaah-resume-09-03-1400](./assets/mh-firouzjaah-resume-09-03-1400.pdf)
+> **_open to work!_**
+
+- Persian: [mh-firouzjaah-resume-09-03-1400](./assets/static/mh-firouzjaah-resume-09-03-1400.pdf)
 
 ### 📫 How to reach me?
 
