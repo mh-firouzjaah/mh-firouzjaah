@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mahdi%20Firouzjaah&animation=fadeIn&fontSize=90&fontAlignY=40&desc=Creative%20Developer%20|%20Competitive%20Programmer%20|%20Talented%20Learner&descSize=22&descAlignY=70)
 
 <div>
-<img src="./assets/img/me2.png?raw=true" align="right">
+<img src="./assets/img/me-dark-mask.png?raw=true" align="right">
 
 ## About Me
 
