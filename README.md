@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mahdi%20Firouzjaah&animation=fadeIn&fontSize=90&fontAlignY=40&desc=Creative%20Developer%20|%20Competitive%20Programmer%20|%20Talented%20Learner&descSize=22&descAlignY=70)
 
-<div>
-<img src="./assets/img/me-dark-mask.png?raw=true" align="right">
-
 ## About Me
 
 - I'm a fullstack mid-level Python and Django developer based in Tehran, Iran.
@@ -17,8 +14,6 @@
 - Read Google Discover on my android device for `news about IT and Tech`.
 - Help newbie programmers on `stackoverflow`, `telegram groups` or by providing videos on `my youtube channel`.
 - Work on my `vscode color theme` and Search for new extensions and configs
-
-</div>
 
 ### I’m currently learning
 
