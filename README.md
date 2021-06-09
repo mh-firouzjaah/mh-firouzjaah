@@ -54,19 +54,24 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF" height="180em">
-
+  <a href="javascript:void(0)">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF" height="180em">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
+  <a href="javascript:void(0)">
+    <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
+  </a>
+  <a href="javascript:void(0)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
+  </a>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=(SSS,SS,S,AAA,AA,A)">
-
+  <a href="javascript:void(0)">
+    <img src="https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=(SSS,SS,S,AAA,AA,A)">
+  </a>
 </div>
 
 <!--START_SECTION:waka-->
