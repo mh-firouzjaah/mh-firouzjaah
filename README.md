@@ -5,6 +5,7 @@
 ## About Me
 
 - I'm a fullstack mid-level Python and Django developer based in Tehran, Iran.
+  - And now I've got some experience in web development (html, css, js/jQuery) obviously.
 - I love coding in python and automate the boring stuff with python and django.
 
 ### when I have time
