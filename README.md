@@ -27,10 +27,10 @@
 [![Gist](https://img.shields.io/badge/-Gist-333?style=flat&logo=github&logoColor=white)](https://gist.github.com/mh-firouzjaah)
 [![youtube](https://img.shields.io/badge/-YouTube-D14836?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCj1NjFqz4gEBjL8DWkUJBQw)
 
-### Blog posts
+### Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBEVIDEOS:START -->
+<!-- YOUTUBEVIDEOS:END -->
 
 ### StackOverflow Activity
 
