@@ -40,7 +40,6 @@
 ### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-
 - [Answer by Mahdi Firouzjah for Show different forms depending of the user choice](https://stackoverflow.com/questions/67137956/show-different-forms-depending-of-the-user-choice/67138150#67138150)
 - [Answer by Mahdi Firouzjah for django permissions and contenttypes translations](https://stackoverflow.com/questions/29398900/django-permissions-and-contenttypes-translations/66612727#66612727)
 - [Answer by Mahdi Firouzjah for How to change name by default of permission in Django?](https://stackoverflow.com/questions/23419919/how-to-change-name-by-default-of-permission-in-django/66612707#66612707)
