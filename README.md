@@ -1,4 +1,4 @@
-# Welcome To My GitHub Profile [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah)
+# Welcome To My GitHub Profile [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah) ![](https://komarev.com/ghpvc/?username=mh-firouzjaah)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mahdi%20Firouzjaah&animation=fadeIn&fontSize=90&fontAlignY=40&desc=Creative%20Developer%20|%20Competitive%20Programmer%20|%20Talented%20Learner&descSize=22&descAlignY=70)
 
@@ -32,6 +32,16 @@
 [![Gist](https://img.shields.io/badge/-Gist-333?style=flat&logo=github&logoColor=white)](https://gist.github.com/mh-firouzjaah)
 [![youtube](https://img.shields.io/badge/-YouTube-D14836?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCj1NjFqz4gEBjL8DWkUJBQw)
 
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ### Resume
 
 > **_open to work!_**
@@ -49,9 +59,13 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=darcula" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=SSS,SS,S,AAA,AA,A)](https://github.com/mh-firouzjaah/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF)](https://git.io/streak-stats)
 
 ---
 
