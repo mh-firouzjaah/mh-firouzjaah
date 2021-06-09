@@ -62,6 +62,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF)](https://git.io/streak-stats)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### Languages and Tools used
