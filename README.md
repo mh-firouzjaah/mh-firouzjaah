@@ -1,4 +1,4 @@
-# Welcome To My GitHub Profile [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah) ![](https://komarev.com/ghpvc/?username=mh-firouzjaah)
+# Welcome To My GitHub Profile [![Github](https://img.shields.io/github/followers/mh-firouzjaah?label=Follow%20me&style=social)](https://github.com/mh-firouzjaah) ![profile-views](https://komarev.com/ghpvc/?username=mh-firouzjaah)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mahdi%20Firouzjaah&animation=fadeIn&fontSize=90&fontAlignY=40&desc=Creative%20Developer%20|%20Competitive%20Programmer%20|%20Talented%20Learner&descSize=22&descAlignY=70)
 
@@ -30,6 +30,7 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBEVIDEOS:START -->
+
 - [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت پنجم](https://www.youtube.com/watch?v=Urvvlbk9q-Q)
 - [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت چهارم](https://www.youtube.com/watch?v=D_aKB06O2XM)
 - [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت سوم](https://www.youtube.com/watch?v=eMjI9nhMVvM)
@@ -40,6 +41,7 @@
 ### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Mahdi Firouzjah for Show different forms depending of the user choice](https://stackoverflow.com/questions/67137956/show-different-forms-depending-of-the-user-choice/67138150#67138150)
 - [Answer by Mahdi Firouzjah for django permissions and contenttypes translations](https://stackoverflow.com/questions/29398900/django-permissions-and-contenttypes-translations/66612727#66612727)
 - [Answer by Mahdi Firouzjah for How to change name by default of permission in Django?](https://stackoverflow.com/questions/23419919/how-to-change-name-by-default-of-permission-in-django/66612707#66612707)
@@ -64,88 +66,92 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=(SSS,SS,S,AAA,AA,A)">
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF)
+
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=SSS,SS,S,AAA,AA,A)](https://github.com/mh-firouzjaah/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF)](https://git.io/streak-stats)
-
-
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 143 Contributions in the Year 2021
- > 
-> 📦 46.6 kB Used in Github's Storage 
- > 
+>
+> 📦 46.6 kB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 21 Public Repositories
+>
+> 🔑 1 Private Repository
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-🌆 Daytime    60 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
-🌃 Evening    87 commits     █████████████░░░░░░░░░░░░   52.73% 
+🌞 Morning    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3%
+🌆 Daytime    60 commits     █████████░░░░░░░░░░░░░░░░   36.36%
+🌃 Evening    87 commits     █████████████░░░░░░░░░░░░   52.73%
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Tuesday      34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61% 
-Wednesday    34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61% 
-Thursday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+Tuesday      34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61%
+Wednesday    34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61%
+Thursday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
+Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88%
 Sunday       48 commits     ███████░░░░░░░░░░░░░░░░░░   29.09%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Tehran
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in HTML**
 
 ```text
-HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.5%
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/mh-firouzjaah/mh-firouzjaah/main/charts/bar_graph.png) 
-
+![Chart not found](https://raw.githubusercontent.com/mh-firouzjaah/mh-firouzjaah/main/charts/bar_graph.png)
 
 <!--END_SECTION:waka-->
 
