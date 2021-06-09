@@ -30,6 +30,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت پنجم](https://www.youtube.com/watch?v=Urvvlbk9q-Q)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت چهارم](https://www.youtube.com/watch?v=D_aKB06O2XM)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت سوم](https://www.youtube.com/watch?v=eMjI9nhMVvM)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت دوم](https://www.youtube.com/watch?v=jgYy8cy71R4)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت اول](https://www.youtube.com/watch?v=25HTEggKxUQ)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
