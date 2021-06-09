@@ -30,7 +30,6 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBEVIDEOS:START -->
-
 - [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت پنجم](https://www.youtube.com/watch?v=Urvvlbk9q-Q)
 - [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت چهارم](https://www.youtube.com/watch?v=D_aKB06O2XM)
 - [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت سوم](https://www.youtube.com/watch?v=eMjI9nhMVvM)
