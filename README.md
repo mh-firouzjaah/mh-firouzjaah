@@ -30,21 +30,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBEVIDEOS:START -->
-- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت پنجم](https://www.youtube.com/watch?v=Urvvlbk9q-Q)
-- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت چهارم](https://www.youtube.com/watch?v=D_aKB06O2XM)
-- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت سوم](https://www.youtube.com/watch?v=eMjI9nhMVvM)
-- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت دوم](https://www.youtube.com/watch?v=jgYy8cy71R4)
-- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت اول](https://www.youtube.com/watch?v=25HTEggKxUQ)
 <!-- YOUTUBEVIDEOS:END -->
 
 ### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Mahdi Firouzjah for Show different forms depending of the user choice](https://stackoverflow.com/questions/67137956/show-different-forms-depending-of-the-user-choice/67138150#67138150)
-- [Answer by Mahdi Firouzjah for django permissions and contenttypes translations](https://stackoverflow.com/questions/29398900/django-permissions-and-contenttypes-translations/66612727#66612727)
-- [Answer by Mahdi Firouzjah for How to change name by default of permission in Django?](https://stackoverflow.com/questions/23419919/how-to-change-name-by-default-of-permission-in-django/66612707#66612707)
-- [Answer by Mahdi Firouzjah for The problem is that the user profile change form is always valid in Django](https://stackoverflow.com/questions/66225536/the-problem-is-that-the-user-profile-change-form-is-always-valid-in-django/66510047#66510047)
-- [Answer by Mahdi Firouzjah for in django why doesn't my database table get all the info that i entered into the form?](https://stackoverflow.com/questions/66299561/in-django-why-doesnt-my-database-table-get-all-the-info-that-i-entered-into-the/66299648#66299648)
 <!-- STACKOVERFLOW:END -->
 
 ### Resume
@@ -64,19 +54,24 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF" height="180em">
-
+  <a href="javascript:void(0)">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF" height="180em">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
+  <a href="javascript:void(0)">
+    <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
+  </a>
+  <a href="javascript:void(0)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
+  </a>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=(SSS,SS,S,AAA,AA,A)">
-
+  <a href="javascript:void(0)">
+    <img src="https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=(SSS,SS,S,AAA,AA,A)">
+  </a>
 </div>
 
 <!--START_SECTION:waka-->
