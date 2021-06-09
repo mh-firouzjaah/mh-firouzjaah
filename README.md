@@ -85,6 +85,80 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 156 Contributions in the Year 2021
+ > 
+> 📦 46.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
+🌆 Daytime    77 commits     ███████████░░░░░░░░░░░░░░   46.67% 
+🌃 Evening    71 commits     ██████████░░░░░░░░░░░░░░░   43.03% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+Tuesday      34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61% 
+Wednesday    39 commits     ██████░░░░░░░░░░░░░░░░░░░   23.64% 
+Thursday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
+Sunday       48 commits     ███████░░░░░░░░░░░░░░░░░░   29.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/mh-firouzjaah/mh-firouzjaah/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/06/2021
 <!--END_SECTION:waka-->
 
 ---
