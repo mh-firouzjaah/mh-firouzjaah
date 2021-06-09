@@ -16,8 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: false
           SHOW_EDITORS: false
-          SHOW_LANGUAGE: false
           SHOW_TIMEZONE: false
-          SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
           SHOW_LANGUAGE_PER_REPO: false
