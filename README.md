@@ -41,6 +41,7 @@
 ### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Mahdi Firouzjah for Show different forms depending of the user choice](https://stackoverflow.com/questions/67137956/show-different-forms-depending-of-the-user-choice/67138150#67138150)
 - [Answer by Mahdi Firouzjah for django permissions and contenttypes translations](https://stackoverflow.com/questions/29398900/django-permissions-and-contenttypes-translations/66612727#66612727)
 - [Answer by Mahdi Firouzjah for How to change name by default of permission in Django?](https://stackoverflow.com/questions/23419919/how-to-change-name-by-default-of-permission-in-django/66612707#66612707)
@@ -65,18 +66,19 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=(SSS,SS,S,AAA,AA,A)">
-</div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF" height="180em">
 
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mh-firouzjaah&theme=onedark&rank=(SSS,SS,S,AAA,AA,A)">
+
 </div>
 
 <!--START_SECTION:waka-->
