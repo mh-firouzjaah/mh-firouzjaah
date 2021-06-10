@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: 'YOUTUBEVIDEOS'
-          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCj1NjFqz4gEBjL8DWkUJBQw, https://api.github.com/users/mh-firouzjaah/gists?page=1&per_page=5'
+          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCj1NjFqz4gEBjL8DWkUJBQw,https://api.github.com/users/mh-firouzjaah/gists?page=1&per_page=5'
