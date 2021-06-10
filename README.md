@@ -32,6 +32,11 @@
 <summary> Latest YouTube Videos </summary>
 
 <!-- YOUTUBEVIDEOS:START -->
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت پنجم](https://www.youtube.com/watch?v=Urvvlbk9q-Q)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت چهارم](https://www.youtube.com/watch?v=D_aKB06O2XM)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت سوم](https://www.youtube.com/watch?v=eMjI9nhMVvM)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت دوم](https://www.youtube.com/watch?v=jgYy8cy71R4)
+- [طراحی وب‌سایت با پشتیبانی از چند زبان در فریم‌ورک جنگو - قسمت اول](https://www.youtube.com/watch?v=25HTEggKxUQ)
 <!-- YOUTUBEVIDEOS:END -->
 
 </details>
@@ -40,6 +45,11 @@
 <summary> StackOverflow Activity </summary>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Mahdi Firouzjaah for Show different forms depending of the user choice](https://stackoverflow.com/questions/67137956/show-different-forms-depending-of-the-user-choice/67138150#67138150)
+- [Answer by Mahdi Firouzjaah for django permissions and contenttypes translations](https://stackoverflow.com/questions/29398900/django-permissions-and-contenttypes-translations/66612727#66612727)
+- [Answer by Mahdi Firouzjaah for How to change name by default of permission in Django?](https://stackoverflow.com/questions/23419919/how-to-change-name-by-default-of-permission-in-django/66612707#66612707)
+- [Answer by Mahdi Firouzjaah for The problem is that the user profile change form is always valid in Django](https://stackoverflow.com/questions/66225536/the-problem-is-that-the-user-profile-change-form-is-always-valid-in-django/66510047#66510047)
+- [Answer by Mahdi Firouzjaah for in django why doesn't my database table get all the info that i entered into the form?](https://stackoverflow.com/questions/66299561/in-django-why-doesnt-my-database-table-get-all-the-info-that-i-entered-into-the/66299648#66299648)
 <!-- STACKOVERFLOW:END -->
 
 </details>
@@ -86,6 +96,74 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 185 Contributions in the Year 2021
+ > 
+> 📦 47.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    14 commits     ▩▩□□□□□□□□□□□□□□□□□□□□□□□   8.24% 
+🌆 Daytime    89 commits     ▩▩▩▩▩▩▩▩▩▩▩▩▩□□□□□□□□□□□□   52.35% 
+🌃 Evening    67 commits     ▩▩▩▩▩▩▩▩▩□□□□□□□□□□□□□□□□   39.41% 
+🌙 Night      0 commits      □□□□□□□□□□□□□□□□□□□□□□□□□   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       3 commits      □□□□□□□□□□□□□□□□□□□□□□□□□   1.76% 
+Tuesday      34 commits     ▩▩▩▩▩□□□□□□□□□□□□□□□□□□□□   20.0% 
+Wednesday    48 commits     ▩▩▩▩▩▩▩□□□□□□□□□□□□□□□□□□   28.24% 
+Thursday     22 commits     ▩▩▩□□□□□□□□□□□□□□□□□□□□□□   12.94% 
+Friday       12 commits     ▩□□□□□□□□□□□□□□□□□□□□□□□□   7.06% 
+Saturday     6 commits      ▩□□□□□□□□□□□□□□□□□□□□□□□□   3.53% 
+Sunday       45 commits     ▩▩▩▩▩▩□□□□□□□□□□□□□□□□□□□   26.47%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tehran
+
+🔥 Editors: 
+VS Code                  5 hrs 16 mins       ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩   100.0%
+
+🐱‍💻 Projects: 
+github-profile           3 hrs 21 mins       ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩□□□□□□□□□   63.62% 
+waka-readme-stats        1 hr 55 mins        ▩▩▩▩▩▩▩▩▩□□□□□□□□□□□□□□□□   36.38%
+
+💻 Operating System: 
+Windows                  5 hrs 16 mins       ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ▩▩▩▩▩▩▩▩□□□□□□□□□□□□□□□□□   33.33% 
+Python                   2 repos             ▩▩▩▩▩□□□□□□□□□□□□□□□□□□□□   22.22% 
+SCSS                     1 repo              ▩▩□□□□□□□□□□□□□□□□□□□□□□□   11.11% 
+Shell                    1 repo              ▩▩□□□□□□□□□□□□□□□□□□□□□□□   11.11% 
+JavaScript               1 repo              ▩▩□□□□□□□□□□□□□□□□□□□□□□□   11.11%
+
+```
+
+
+
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 
 ---
