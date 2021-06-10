@@ -28,15 +28,21 @@
 [![Gist](https://img.shields.io/badge/-Gist-333?style=flat&logo=github&logoColor=white)](https://gist.github.com/mh-firouzjaah)
 [![youtube](https://img.shields.io/badge/-YouTube-D14836?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCj1NjFqz4gEBjL8DWkUJBQw)
 
-### Latest YouTube Videos
+<details>
+<summary> Latest YouTube Videos </summary>
 
 <!-- YOUTUBEVIDEOS:START -->
 <!-- YOUTUBEVIDEOS:END -->
 
-### StackOverflow Activity
+</details>
+
+<details>
+<summary> StackOverflow Activity </summary>
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
+</details>
 
 ### Resume
 
@@ -55,19 +61,23 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <a href="javascript:void(0)">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-firouzjaah&theme=onedark&stroke=E5C07BFF" height="180em">
   </a>
 </div>
 
-<div align="center">
-  <a href="javascript:void(0)">
-    <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
-  </a>
-  <a href="javascript:void(0)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
-  </a>
-</div>
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=mh-firouzjaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-firouzjaah&layout=compact&langs_count=8&theme=onedark" height="180em">
+    </a>
+  </div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 <div align="center">
   <a href="javascript:void(0)">
@@ -79,6 +89,8 @@
 <!--END_SECTION:waka-->
 
 ---
+
+## My Skill Set
 
 ### Languages and Tools used
 
